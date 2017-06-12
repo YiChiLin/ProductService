@@ -1,0 +1,17 @@
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\obj\Debug\ProductServiceTests.csprojResolveAssemblyReference.cache
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\ProductServiceTests.dll
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\ProductServiceTests.pdb
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\ProductService.dll
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\ProductService.pdb
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\obj\Debug\ProductServiceTests.dll
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\obj\Debug\ProductServiceTests.pdb
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\NSubstitute.dll
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\nunit.framework.dll
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\NSubstitute.xml
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\nunit.framework.xml
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\FluentAssertions.dll
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\FluentAssertions.pdb
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\FluentAssertions.xml
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductServiceTests\bin\Debug\FluentAssertions.Core.xml

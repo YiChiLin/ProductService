@@ -9,17 +9,17 @@ namespace Service
         {
         }
 
-        public List<T> GetData(List<T> data)
+        internal List<T> GetData(List<T> data)
         {
             return new List<T>();
         }
 
-        public List<T> GetData()
+        internal List<T> GetData()
         {
             return new List<T>();
         }
 
-        public List<int> GetSum(int groupRows,string column)
+        internal List<int> GetSum(int groupRows,string column)
         {
             return new List<int>();
         }

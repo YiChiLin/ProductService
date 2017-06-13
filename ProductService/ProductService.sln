@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductService", "ProductService\ProductService.csproj", "{F25CC79F-F586-489A-BAAB-42B5B4FC64AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "ProductService\Service.csproj", "{F25CC79F-F586-489A-BAAB-42B5B4FC64AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductServiceTests", "ProductServiceTests\ProductServiceTests.csproj", "{61969F4A-38E6-4645-9E30-02A83F8E8115}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTests", "ProductServiceTests\ServiceTests.csproj", "{61969F4A-38E6-4645-9E30-02A83F8E8115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

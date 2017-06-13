@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-namespace ProductService.Tests
+namespace Service.Tests
 {
     [TestClass()]
-    public class ProductServiceTests
+    public class ServiceTests
     {
         private List<Product> _productData = new List<Product>
         {
@@ -22,12 +22,13 @@ namespace ProductService.Tests
             new Product() {Id = 11, Cost = 11, Revenue = 21, SellPrice = 31}
         };
 
-        private ProductService _target;
+        private Service<Product> _target;
 
         [TestInitialize]
         public void Init()
         {
-            _target = new ProductService(_productData);
+            _target = new Service<Product>();
+            _target.GetData(_productData);
         }
 
         [TestMethod()]

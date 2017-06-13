@@ -64,13 +64,13 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="ProductServiceTests.cs" />
+    <Compile Include="ServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ProductService\ProductService.csproj">
+    <ProjectReference Include="..\ProductService\Service.csproj">
       <Project>{F25CC79F-F586-489A-BAAB-42B5B4FC64AC}</Project>
-      <Name>ProductService</Name>
+      <Name>Service</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

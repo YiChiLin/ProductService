@@ -1,5 +1,0 @@
-C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductService\bin\Debug\ProductService.dll
-C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductService\bin\Debug\ProductService.pdb
-C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductService\obj\Debug\ProductService.dll
-C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductService\obj\Debug\ProductService.pdb
-C:\Users\jean.lin66\Desktop\TDD\ProductService\ProductService\ProductService\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
